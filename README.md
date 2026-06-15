@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Developer • AudioVisual Editor • IoT Enthusiast
+  Software Engineer • Front-End Developer • AudioVisual Editor • IoT Enthusiast
 </h3>
 
 <p align="center">
