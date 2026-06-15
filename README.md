@@ -32,7 +32,7 @@
 
 ```txt
 🎓 Estudante de Engenharia de Software
-⚡ Desenvolvedor Full-Stack
+⚡ Desenvolvedor Front-End 
 🤖 Entusiasta por IoT e Automação
 🎬 Editor AudioVisual
 🚀 Criando projetos modernos para web
